@@ -1,5 +1,14 @@
-console.log(Seu_nome = "Thiago Pereira Gonçalves")
-console.log(Seu_email = "thiago19.pgoncalves@gmail.com")
-console.log(Sua_profissão = "Eletricista")
-console.log(Sua_idade = 36)
-console.log(lugar_para_conhecer = "Portugal")
+let seuNome = "Thiago Pereira Gonçalves"
+console.log(seuNome)
+
+let seuEmail = "thiago19.pgoncalves@gmail.com"
+console.log(seuEmail)
+
+let suaProfissao = "Eletricista"
+console.log(suaProfissao)
+
+let suaIdade = "36 anos"
+console.log(suaIdade)
+
+let lugarParaConhecer = "Portugal"
+console.log(lugarParaConhecer)
