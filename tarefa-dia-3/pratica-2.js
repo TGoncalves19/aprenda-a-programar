@@ -9,3 +9,12 @@ while(i <= n) {
     console.log(textoDeExibicao)
     i++
 }
+
+//Usando 'const'
+//const multiplicador = 9
+//let i = 1
+//while (1 <= 10){
+    //const resultado = i * multiplicador
+    //const valorExibido = `${multiplicador} * ${i} = ${resultado}`
+    //console.log (valorExibido)
+//}
